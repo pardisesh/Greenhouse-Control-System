@@ -58,25 +58,25 @@ The project is divided into four main parts:
 
 ### Part 1 – Continuous Greenhouse Model
 
-<img src="images/part1_continuous_temperature.png" width="700">
+<img src="image/part1_continuous_temperature.jpg" width="700">
 
 ---
 
 ### Part 2 – Continuous vs Euler Simulation
 
-<img src="images/part2_continuous_vs_euler.png" width="700">
+<img src="image/part2_continuous_vs_euler.jpg" width="700">
 
 ---
 
 ### Part 3 – Closed-loop PID Control
 
-<img src="images/part3_closed_loop_temperature.png" width="700">
+<img src="image/part3_closed_loop_temperature.jpg" width="700">
 
 ---
 
 ### Part 4 – Sustainability Analysis
 
-<img src="images/part4_rainwater_tank_level.png" width="700">
+<img src="image/part4_rainwater_tank_level.jpg" width="700">
 
 ---
 
@@ -90,5 +90,7 @@ The project is divided into four main parts:
 
 **Pardis Eshghinejad**
 
-Master's Student in Computer Engineering (Artificial Intelligence)
+Master's Student in Computer Engineering (Artificial Intelligence)  
 University of Genoa
+
+

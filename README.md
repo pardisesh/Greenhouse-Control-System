@@ -158,14 +158,6 @@ Files:
 
 # Results
 
-## Simulink Model
-
-<p align="center">
-<img src="image/simulink.jpg" width="850">
-</p>
-
----
-
 ## Part 1 – Continuous Greenhouse Model
 
 <p align="center">
